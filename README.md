@@ -36,7 +36,8 @@ Ho deciso di condividere il codice __[(sotto questa licenza)](https://github.com
 ![](img/Screenshot_2.jpg)  
 Questa è la lista degli incontri che contiene i link dei match
 ![](img/Screenshot_1.jpg) 
-Nella colonna var troviamo il guadagno garantito dalla scommessa
-Se il valore è minore di 100 significa che è una surebet, al diminuire di var aumenterà il profitto
+Nella colonna var troviamo il guadagno garantito dalla scommessa, se il valore è minore di 100 significa che è una surebet, al diminuire di var aumenterà il profitto.
+
 Ad esempio con 100 euro nel caso under over 3.5 farei un profitto di 10,2€
+
 Per avere più dettagli ci basta inserire le 2 quote nel programma __[quantoPunto.py](https://github.com/simonemastella/surebetfinder/blob/master/quantoPunto.py)__
