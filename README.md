@@ -19,7 +19,7 @@ Ho sviluppato questo programma per 2 motivi differenti:
 2. individuare le "SUREBET", cioè le differenze di quota presenti tra i vari bookmaker che garantiscono una vincità sicura ad ogni scommessa.
 
 Ci tengo a specificare che non ho mai sfruttato questo codice per guadagnare in quanto non lo ritengo etico, ed è per questa ragione che il codice qui presente è una versione deprecata e incompleta che non permette di individuare le Surebet senza impegno. 
-Ho deciso di condividere il codice __[(sotto questa licenza)](https://github.com/simonemastella/surebetfinder/blob/main/LICENSE)__ solo per scopi educativi, dunque per facilitare lo studio delle varie librerie e (funzioni) fornendo un esempio funzionante (provvederò a commentare il codice appena ne avrò la possibilità).
+Ho deciso di condividere il codice __[(sotto questa licenza)](https://github.com/simonemastella/surebetfinder/blob/master/LICENSE)__ solo per scopi educativi, dunque per facilitare lo studio delle varie librerie e (funzioni) fornendo un esempio funzionante (provvederò a commentare il codice appena ne avrò la possibilità).
 
 ## Descrizione funzionamento Step-by-Step
 * all'avvio ti chiederà di scegliere uno tra 16 campionati
@@ -39,4 +39,4 @@ Questa è la lista degli incontri che contiene i link dei match
 Nella colonna var troviamo il guadagno garantito dalla scommessa
 Se il valore è minore di 100 significa che è una surebet, al diminuire di var aumenterà il profitto
 Ad esempio con 100 euro nel caso under over 3.5 farei un profitto di 10,2€
-Per avere più dettagli ci basta inserire le 2 quote nel programma __[quantoPunto.py](https://github.com/simonemastella/surebetfinder/quantoPunto.py)__
+Per avere più dettagli ci basta inserire le 2 quote nel programma __[quantoPunto.py](https://github.com/simonemastella/surebetfinder/blob/master/quantoPunto.py)__

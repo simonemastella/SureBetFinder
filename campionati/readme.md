@@ -1,0 +1,1 @@
+qui troverai csv con le informazioni 
