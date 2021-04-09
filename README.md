@@ -3,15 +3,6 @@
 
 :it: Questo readme sarà in italiano dal momento che il programma è sviluppato per comunicare con siti di scommesse italiani e non potrebbe funzionare con account di cittadini non italiani.
 
-## Librerie usate
-#### Già incluse in python 3.8
-* webbrowser
-* os.path
-* datetime
-#### Non incluse (pip install name)
-* pandas
-* bs4
-* request_html
 
 ## Introduzione
 Ho sviluppato questo programma per 2 motivi differenti:
